@@ -1,0 +1,15 @@
+/Users/mmteyeb/codenew/dotnet-sample/bin/Debug/net7.0/dotnet-sample
+/Users/mmteyeb/codenew/dotnet-sample/bin/Debug/net7.0/dotnet-sample.deps.json
+/Users/mmteyeb/codenew/dotnet-sample/bin/Debug/net7.0/dotnet-sample.runtimeconfig.json
+/Users/mmteyeb/codenew/dotnet-sample/bin/Debug/net7.0/dotnet-sample.dll
+/Users/mmteyeb/codenew/dotnet-sample/bin/Debug/net7.0/dotnet-sample.pdb
+/Users/mmteyeb/codenew/dotnet-sample/obj/Debug/net7.0/dotnet-sample.csproj.AssemblyReference.cache
+/Users/mmteyeb/codenew/dotnet-sample/obj/Debug/net7.0/dotnet-sample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mmteyeb/codenew/dotnet-sample/obj/Debug/net7.0/dotnet-sample.AssemblyInfoInputs.cache
+/Users/mmteyeb/codenew/dotnet-sample/obj/Debug/net7.0/dotnet-sample.AssemblyInfo.cs
+/Users/mmteyeb/codenew/dotnet-sample/obj/Debug/net7.0/dotnet-sample.csproj.CoreCompileInputs.cache
+/Users/mmteyeb/codenew/dotnet-sample/obj/Debug/net7.0/dotnet-sample.dll
+/Users/mmteyeb/codenew/dotnet-sample/obj/Debug/net7.0/refint/dotnet-sample.dll
+/Users/mmteyeb/codenew/dotnet-sample/obj/Debug/net7.0/dotnet-sample.pdb
+/Users/mmteyeb/codenew/dotnet-sample/obj/Debug/net7.0/dotnet-sample.genruntimeconfig.cache
+/Users/mmteyeb/codenew/dotnet-sample/obj/Debug/net7.0/ref/dotnet-sample.dll
